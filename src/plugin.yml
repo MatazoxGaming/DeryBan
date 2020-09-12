@@ -1,0 +1,11 @@
+name: DeryBan
+version: 1.0
+main: fr.farfy.deryban.Main
+commands:
+  ban:
+    permission: mod
+  unban:
+    permission: mod
+  check:
+    permission: mod
+  
